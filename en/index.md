@@ -1,3 +1,3 @@
-# EN (file-based)
+# EN Page (test)
 
-This is **en/index.md**.
+This is a sample page to test Universal Editor + Generate Variations.
