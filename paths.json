@@ -12,5 +12,6 @@
   "includes": [
     "/content/wknd-universal/",
     "/content/dam/wknd-universal/"
-  ]
+  ],
+  "dummy":[]
 }
