@@ -458,3 +458,11 @@
   }
   
 }
+
+.cards .cards-card-body p,
+.cards .cards-card-body li,
+.cards .cards-card-body h1,
+.cards .cards-card-body h2,
+.cards .cards-card-body h3 {
+  color: red; /* ここをお好きな色に */
+}
