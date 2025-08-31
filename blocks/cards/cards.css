@@ -464,5 +464,5 @@
 .cards .cards-card-body h1,
 .cards .cards-card-body h2,
 .cards .cards-card-body h3 {
-  color: red; /* ここをお好きな色に */
+  color: rgb(24, 23, 23); /* ここをお好きな色に */
 }
