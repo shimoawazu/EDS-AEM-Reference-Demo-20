@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p154442-e1620921.adobeaemcloud.com/bin/franklin.delivery/shimoawazu/EDS-AEM-Reference-Demo-20/main"
+    url: "https://author-p154442-e1620921.adobeaemcloud.com/bin/franklin.delivery/shimoawazu/eds-aem-reference-demo-20/main"
     type: "markup"
     suffix: ".html"
